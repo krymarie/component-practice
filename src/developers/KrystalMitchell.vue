@@ -73,10 +73,7 @@ Vue.directive('box-shadow', {
         }
     }
  })
-<<<<<<< HEAD
- 
-=======
->>>>>>> master
+
 </script>
 
 <style scoped>
