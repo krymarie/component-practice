@@ -85,11 +85,6 @@ Vue.directive('box-shadow', {
 	color: grey;
 }
 ul {
-<<<<<<< HEAD
-  text-decoration: none;
-}
-=======
   list-style-type: none;
  }
->>>>>>> master
 </style>
